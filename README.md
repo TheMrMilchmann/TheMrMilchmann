@@ -28,8 +28,9 @@ Key Techs: **Node.js**, Yarn, Jest
 
 
 <h3>Gradle Plugins</h3>
+
 I develop and maintain several plugins for the build automation tool [Gradle](https://gradle.org/) to automate various
-development tasks and simply configuration while seamlessly integrating with Gradle.
+development tasks and simplify configuration while seamlessly integrating with Gradle.
 
 Languages: **Kotlin**, **Java**, Groovy<br>
 Key Techs: **Gradle**, Gradle TestKit, JUnit 5
