@@ -42,14 +42,3 @@ Key Techs: **Gradle**, Gradle TestKit, JUnit 5
 - [LWJGL3 Gradle Plugin](https://github.com/Osmerion/gradle-lwjgl3) — A Gradle plugin to simplify working with LWJGL 3
 - [CurseForge Gradle Publish Plugin](https://github.com/TheMrMilchmann/gradle-curseforge-publish) — A Gradle plugin for
   publishing to CurseForge
-
-
-<h2 align="center">Socials</h2>
-
-<p align="middle">
-<a href="https://www.linkedin.com/in/leon-linhart-5a903619b"><img src="assets/tiles/linkedin.png" alt="LinkedIn" width="96" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://mastodon.social/@themrmilchmann"><img src="assets/tiles/mastodon.png" alt="Mastodon" width="96" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://stackoverflow.com/users/11547351/themrmilchmann"><img src="assets/tiles/stackoverflow.png" alt="StackOverflow" width="96" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://twitch.com/TheMrMilchmann"><img src="assets/tiles/twitch.png" alt="Twitch" width="96" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://youtube.com/TheMrMilchmann"><img src="assets/tiles/youtube.png" alt="YouTube" width="96" /></a>
-</p>
