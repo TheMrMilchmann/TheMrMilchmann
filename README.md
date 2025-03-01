@@ -4,7 +4,7 @@
 
 - 🧑 My name is **Leon Linhart**.
 - 🇩🇪 I'm from Aachen, Germany.
-- 🏭 I currently work at Yukawa Exponential GmbH as **backend software engineer**.
+- 🏭 I currently work at Vyoma GmbH as **software engineer**.
 - 🏫 I've earned a **bachelor's degree in computer science** at RWTH Aachen University.
 - 🛠️ I feel most comfortable on the JVM and have years of **Java and Kotlin experience**.
 - 🐶 Dogs > Cats (but both is fine).
