@@ -6,7 +6,7 @@
 - 🇪🇺 I'm from Aachen, Germany.
 - 🛰️ I currently work at Vyoma GmbH as **software engineer**.
 - 🏫 I've earned a **bachelor's degree in computer science** at RWTH Aachen University.
-- 🛠️ I am most comfortable on the JVM and have years of **Java and Kotlin experience**.
+- 🛠️ I'm most comfortable on the JVM and have years of **Java and Kotlin experience**.
 - 🐶 Dogs > Cats (but both is fine).
 
 I'm irregularly rambling about software development, programming languages, and other tech-related topics on my personal
