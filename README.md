@@ -3,8 +3,8 @@
 <h2>About Me</h2>
 
 - 🧑 My name is **Leon Linhart**.
-- 🏭 I currently work at Vyoma GmbH as **software engineer**.
 - 🇪🇺 I'm from Aachen, Germany.
+- 🛰️ I currently work at Vyoma GmbH as **software engineer**.
 - 🏫 I've earned a **bachelor's degree in computer science** at RWTH Aachen University.
 - 🛠️ I am most comfortable on the JVM and have years of **Java and Kotlin experience**.
 - 🐶 Dogs > Cats (but both is fine).
